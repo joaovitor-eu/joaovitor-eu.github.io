@@ -1,0 +1,44 @@
+@font-face {
+    font-family: dos;
+    src: url(../fonts/Perfect\ DOS\ VGA\ 437\ Win.ttf);
+}
+body{
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    font-family: dos;
+}
+.menu{
+    background-color: black;
+    margin-top: 2%;
+    margin-right: 60%;
+    color: rgb(255, 131, 152);
+    padding: 1%;
+    border-radius: 10px;
+    border-style: double;
+}
+.options{
+    background-color: black;
+    margin-top: 1%;
+    margin-right: 84%;
+    color: rgb(255, 131, 152);
+    padding: 1%;
+    border-radius: 10px;
+    border-style: double;
+    position:cover;
+    text-align: center;
+}
+.userUpdate{
+    background-color: black;
+    margin-top: 1%;
+    margin-right: 60%;
+    color: rgb(255, 131, 152);
+    padding: 1%;
+    border-radius: 10px;
+    border-style: double;
+    position:cover;
+    text-align: center; 
+}
+a{
+    color: rgb(255, 131, 152);
+    font-size: 20px;
+}
